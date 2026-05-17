@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-green?style=flat-square" alt="Python">
   <img src="https://img.shields.io/badge/Excel-Word-PPT-orange?style=flat-square" alt="Office">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License">
+[![SafeSkill 50/100](https://img.shields.io/badge/SafeSkill-50%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/wade20250715-office-mcp-server)
 </p>
 
 **MCP Server for Microsoft Office automation.**  
